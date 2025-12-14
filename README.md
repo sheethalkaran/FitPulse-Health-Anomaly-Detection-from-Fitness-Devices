@@ -45,5 +45,4 @@ The preprocessing steps are implemented entirely in **Google Colab**, without an
 7. **Save the cleaned dataset** to Google Drive.  
 8. **Visualizations**:
    - Heart Rate trend  
-## Folder Structure
 
