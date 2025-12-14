@@ -7,6 +7,16 @@ Milestone 1 focuses on **data ingestion, preprocessing, and time normalization**
 
 ---
 
+## Dataset Availability
+
+Due to file size constraints, raw datasets are **not stored in this GitHub repository**.
+
+All datasets used in this project are publicly available and can be accessed from the official source:
+
+🔗 **Fitabase Dataset (Kaggle)**: [https://www.kaggle.com/datasets/monicamd/fit-base-data](https://www.kaggle.com/datasets/monicamd/fit-base-data)
+
+---
+
 ## Datasets Used
 
 The project uses **three datasets** from **Fitabase**:
