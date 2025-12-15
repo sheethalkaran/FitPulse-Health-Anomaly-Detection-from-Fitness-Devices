@@ -41,7 +41,6 @@ The project uses **three datasets** from **Fitabase**:
 - Pandas  
 - NumPy  
 - Matplotlib  
-- Seaborn  
 - Google Colab  
 
 ---
@@ -55,7 +54,7 @@ The preprocessing steps are implemented entirely in **Google Colab**, without an
 3. **Handle missing/null values**:
    - Heart Rate: forward-fill (`ffill`)  
    - Steps: missing minutes filled with `0`  
-   - Sleep: retained as daily context  
+   - Sleep: merged at daily level and missing values retained as NaN for analytical integrity 
 4. **Resample metrics** to **1-minute intervals**:
    - Heart Rate: average per minute  
    - Steps: sum per minute  
