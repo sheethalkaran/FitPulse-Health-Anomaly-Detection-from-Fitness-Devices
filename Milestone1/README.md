@@ -1,4 +1,5 @@
-# FitPulse Health Anomaly Detection – Milestone 1
+# FitPulse Health Anomaly Detection from Fitness Devices  
+## Milestone 1: Data Collection and Preprocessing
 
 ## Project Overview
 
@@ -9,9 +10,9 @@
 
 ## Dataset Availability
 
-Due to repository size limitations, **raw datasets are not included** in this GitHub repository.
-The datasets used in this milestone are **publicly available wearable fitness datasets** accessed from Kaggle:
-🔗 **Kaggle Dataset**  
+The raw datasets used in this milestone are publicly available and were sourced from Kaggle. Due to repository size constraints, the raw files are not included directly in this repository.
+
+Dataset source:  
 https://www.kaggle.com/datasets/monicamd/fit-base-data
 
 
