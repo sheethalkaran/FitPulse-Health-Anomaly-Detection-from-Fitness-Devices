@@ -63,8 +63,8 @@ KMeans clustering was used to group users based on behavioral similarity. DBSCAN
 - Trend modeling captured short-term temporal patterns and uncertainty.
 - Dimensionality reduction and clustering revealed clear separation between user behavioral profiles.
 - Residual analysis provides a basis for anomaly detection in future milestones.
-
-## Conclusion
+  
 This milestone demonstrates a structured and reproducible approach to feature extraction, trend modeling, and behavioral pattern analysis using time-series fitness data. The results form a robust analytical foundation for subsequent anomaly detection tasks.
+
 
 
