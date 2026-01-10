@@ -7,6 +7,8 @@ The objective of Milestone 3 is to detect, label, and visualize anomalies in wea
 ## Dataset Description
 The analysis uses the cleaned and reduced dataset generated in Milestone 2. The dataset consists of minute-level fitness data for multiple users and includes heart rate, step count, and total minutes asleep. The data contains no missing values and is suitable for time-series analysis and anomaly detection.
 
+A reduced dataset was intentionally used in this milestone to ensure computational efficiency and clarity of anomaly detection results, while preserving the temporal structure required for validation and visualization.
+
 ## Methodology and Steps Followed
 
 ### Residual Analysis Using Prophet
