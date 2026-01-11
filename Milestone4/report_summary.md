@@ -2,7 +2,7 @@
 ## Milestone 4: Dashboard for Insights
 
 ## Objective
-The objective of Milestone 4 is to develop an interactive dashboard for visualizing and analyzing health anomalies detected from wearable fitness device data. This milestone deploys the feature extraction, trend modeling, and anomaly detection logic developed in Milestones 2 and 3 into a real-time, user-friendly Streamlit dashboard executed using Google Colaboratory.
+The objective of Milestone 4 is to develop an interactive dashboard for visualizing and analyzing health anomalies detected from wearable fitness device data. This milestone deploys the preprocessing, trend modeling, and anomaly detection logic developed in Milestones 2 and 3 into a real-time, user-friendly Streamlit dashboard executed using Google Colaboratory.
 
 ## Dashboard Workflow
 1. Upload fitness data files (CSV or JSON) through the Streamlit dashboard interface.
@@ -24,7 +24,7 @@ The objective of Milestone 4 is to develop an interactive dashboard for visualiz
 
 ## Key Insights from the Dashboard
 - Heart rate anomalies are observed as sudden spikes or drops that significantly deviate from expected physiological trends.
-- Sleep anomalies highlight irregular sleep behavior, including unusually low or inconsistent sleep duration.
+- Sleep anomalies highlight irregular or missing sleep data patterns, such as zero or inconsistent recorded sleep duration.
 - Step count anomalies indicate abnormal activity patterns such as prolonged inactivity or unexpected surges.
 - Interactive metric-wise and date-wise filtering enables focused analysis of individual user health patterns.
 
